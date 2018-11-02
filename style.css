@@ -1,0 +1,97 @@
+
+h1 {
+    color: Purple;
+    letter-spacing: 10px
+    font-size: 32px;
+    font-weight: 900;
+    margin-left:  50px;
+    padding:0px
+}
+
+h2	{
+	color: red;
+	padding: 30px;
+	
+
+
+
+}
+body{
+	background: lightblue;
+	color: black;
+	font-family: Helvetica;
+	margin-left: 300px
+	width:300px;
+    padding: 15px
+    border:1px solid red;
+   
+}
+
+img {
+width: 100px;
+	     height:100px;
+	     border-radius: 20%;
+     
+     margin-bottom: 20px
+     margin:;
+
+}
+
+a {
+	margin-left: 10px
+	text-decoration: none;
+   
+}
+
+a:hover {
+	color:black;
+}
+
+
+.list-inline {
+	font-size: 50px
+}
+
+
+/*Custom design with class*/
+
+
+
+.container {
+	width: 700px;
+	margin:40px auto;
+	text-align: center;
+}
+
+
+.btn-blue {
+	background-color: #5b69b7;
+	color: white;
+	padding: 50px 50px
+	border-radius: 10px
+	text-decoration:;
+}
+
+.btn-blue:hover {
+	background-color:black;
+	color:white;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+card-white {
+	background color: white
+	padding:60px 
+	box-shadow:0px 10px 30px rgba(0,0,0,0,1);
+	border-radius: 20px 0px
+	margin:20px 0px;
+	text-align: center;
+	border:1px solid grey;
+
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
